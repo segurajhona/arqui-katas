@@ -7,6 +7,7 @@ Mongo db
 ### Base de datos de libros
 Guardar: 
 - Autor
+- Genero
 - Capitulos
 - Indice?
 - Referencias a otros libros

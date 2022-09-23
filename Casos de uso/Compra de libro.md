@@ -1,5 +1,5 @@
 # Caso: Un cliente desea comprar un libro en formato electronico
-## Precondicion: el cliente esta logueado en el sistema
+## Precondicion: el cliente esta logueado en el sistema con una sesion iniciada
 ## Pasos:
 1. El cliente ingresa a la "tienda"
 2. El sistema le muestra un listado de libros con precios acorde a su region
@@ -17,7 +17,7 @@
 
 
 # Caso: Un cliente desea comprar un libro en formato arboles muertos
-## Precondicion: el cliente esta logueado en el sistema
+## Precondicion: el cliente esta logueado en el sistema con una sesion iniciada
 ## Pasos:
 1. El cliente ingresa a la "tienda"
 2. El sistema le muestra un listado de libros con precios acorde a su region
