@@ -13,7 +13,3 @@ Requirements:
 - authors can reject proposed review changes; 
 - customers can buy books (either e- form or dead trees form) online, including those available in "beta"; 
 - publisher can push authors' chapters to those customers who bought the "beta"
-
-# Preguntas
-- SMS regionalizados?
-- Cuanto abarca y como es la mejor forma de implementar la regionalizacion del contenido
